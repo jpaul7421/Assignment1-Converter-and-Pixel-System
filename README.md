@@ -3,7 +3,7 @@
 This repository contains Assignment 1 for CS 240 - Computer Organization. The
 project demonstrates how information is represented using character codes,
 number bases, two's-complement bit patterns, and RGB pixel values.
-GitHub link: `[ADD YOUR GITHUB REPOSITORY LINK HERE]`
+GitHub link: `https://github.com/jpaul7421/Assignment1-Converter-and-Pixel-System`
 ## CS 240 - Computer Organization
 The assignment includes an ASCII-to-decimal converter, a binary/decimal/octal/
 hexadecimal converter, an image-to-pixel converter, and a pixel-to-image
